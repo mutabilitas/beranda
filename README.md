@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terhangus
-- 👀 I’m interested in ... i'm still searching, actually [one of my background bane of existence]
-- 🌱 I’m currently learning ... design & analoysis of algorithms
+- 👀 I’m interested in ... i'm still searching, actually [one of my background banes of existence]
+- 🌱 I’m currently learning ... my semester 6 courses! HCI, automata theory, comp org & arch
 - 📫 How to reach me ... twitter.com/humaintains!
 
 <!---
