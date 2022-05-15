@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terhangus
-- 👀 I’m interested in ... i'm still searching, actually [one of my background banes of existence]
-- 🌱 I’m currently learning ... my semester 6 courses! HCI, automata theory, comp org & arch
+- 👀 I’m interested in ... data science, UX, infosec, networks & communication (i finally found them omggg)
+- 🌱 I’m currently learning ... r & sql. strengthening python, html, & css
 - 📫 How to reach me ... twitter.com/humaintains!
 
 <!---
