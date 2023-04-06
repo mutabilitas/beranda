@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mutabilitas
 - 👀 I’m interested in ... data science, UX, infosec, networks & communication
-- 🌱 I’m currently learning ... courses: computer sysadmin, DBMS, mobile app dev (android), software engineering. languages: r & sql. strengthening python, html, & css
-- 🧪 I'm currently working on ... capstone project, personal website, & several papers for my CS seminar course!
+- 🌱 I’m currently learning ... courses: artificial intelligence, OS, webprog. languages: html, php, & sql.
+- 🧪 I'm currently working on ... skripsi, projects for my class, & my personal website!
 - 📫 How to reach me ... twitter.com/humaintains!
 
 <!---
