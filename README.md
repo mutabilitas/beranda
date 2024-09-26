@@ -1,7 +1,7 @@
 - 👋 hi, i’m madina
-- 👀 i’m interested in ... data science, UX, infosec, networks & communication
-- 🌱 i’m currently learning ... courses: machine learning (uni) & QA automation (GITS 2023!)
-- 🧪 i'm currently working on ... skripsi [PRIORITY], personal website malahayati.glitch.me
+- 👀 i’m interested in ... alternative ways to tech & our digital presences, cognitive science
+- 🌱 i’m currently learning ... i need to set this one concretely
+- 🧪 i'm currently working on ... personal website malahayati.glitch.me, building by testing portfolio
 
 <!---
 mutabilitas/mutabilitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
